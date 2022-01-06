@@ -39,7 +39,7 @@ body{
 .left-side p{
     font-size: 16px;
     padding-top: 36px;
-    
+    padding-bottom: 24px;
 }
 
 .banner-image{
@@ -48,4 +48,12 @@ body{
 }
 .btn{
     text-decoration: none;
+    background-color: #ffffff;
+    color: #323232;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: #3340FF;
+    color: #ffffff;
 }
